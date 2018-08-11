@@ -1,0 +1,14 @@
+shanghai
+beijing
+guangzhou
+chengdu
+tianjin
+xian
+hefei
+nanjing
+hangzhou
+hubei
+hunan
+shenzhen
+xianggang
+taiwan
